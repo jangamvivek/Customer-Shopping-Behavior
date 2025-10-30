@@ -208,13 +208,6 @@ Top 10 High-Value Customers
 
 
 
-👨‍💻 Author
-Vivek Jangam
-🎓 B.Tech in Data Science | 📊 Aspiring Data Analyst
-💼 Experienced with Power BI, SQL, Python, and Business Analytics
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vivekjangam1/)
-📧 [Email](mailto:jangamvivek@gmail.com)
-
 ⭐ Acknowledgment
 Special thanks to open-source datasets and resources that supported this analysis.
 
